@@ -1,13 +1,13 @@
-UN DÍA, UNA VIRTUD — INSTALACIÓN GRATUITA EN IPHONE
+UN DÍA, UNA VIRTUD — SAMSUNG
 
-1. Crea una cuenta gratis en github.com.
-2. Crea un repositorio público, por ejemplo "un-dia-una-virtud".
-3. Sube TODOS los archivos de esta carpeta a la raíz del repositorio (no la carpeta contenedora).
-4. En Settings > Pages > Build and deployment selecciona Deploy from a branch, main, /(root) y Save.
-5. Espera a que aparezca la URL https://TUUSUARIO.github.io/un-dia-una-virtud/
-6. Abre esa dirección en Safari en tu iPhone, pulsa Compartir > Añadir a pantalla de inicio > Añadir.
-7. Abre el icono de la pantalla de inicio, escribe tu nombre y disfruta.
+Esta versión incluye los 150 pasajes del documento Word facilitado. Son traducciones libres con referencias bibliográficas, aún pendientes de cotejo editorial. Las frases rotan cada día y vuelven a empezar tras la 150.
 
-365 textos diarios, pero IMPORTANTE: 24 son traducciones/adaptaciones de pasajes clásicos sin cotejo editorial definitivo; 341 son REFLEXIONES ORIGINALES inspiradas en esos pasajes y están etiquetadas como tales. No se presentan falsamente como citas literales. El 29 de febrero comparte el texto del día 365 con el 31 de diciembre.
+SUBIR A GITHUB DESDE SAMSUNG:
+1. Descomprime este ZIP desde Mis archivos.
+2. En Chrome abre tu repositorio de GitHub y usa Add file > Upload files.
+3. Sube TODOS los archivos extraídos a la raíz, sustituyendo los que ya existan (no subas el ZIP).
+4. Pulsa Commit changes. GitHub Pages publicará la actualización.
+5. Abre la URL de tu app con Internet para cargar la nueva versión. Si no cambia, cierra la app, borra los datos del sitio desde Chrome o espera la activación del nuevo service worker y recarga.
+6. Tras la primera carga correcta podrás leer sin conexión. Compruébalo en modo avión.
 
-La app almacena nombre y favoritos en el iPhone, sin servidor de datos. No envía notificaciones automáticas. La primera carga requiere Internet; después puede funcionar sin conexión.
+NOTA: Si cambias los datos del sitio se borran nombre y favoritos locales.

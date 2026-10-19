@@ -1,0 +1,2 @@
+VERSIÓN PROVISIONAL SIN FRASES INVENTADAS. Incluye 15 pasajes clásicos en español, todavía no 366 citas verificadas.
+Subir TODOS los archivos a la raíz del repositorio de GitHub (reemplazar existentes), activar Settings > Pages > Deploy from a branch > main > /root. Abrir URL publicada en Chrome Samsung > menú > Añadir a pantalla de inicio. Abrir una vez con conexión para precargar; después modo avión para comprobar. Si sigue la versión vieja, cerrar pestañas y borrar datos del sitio en Chrome, pero eso puede eliminar favoritos.
